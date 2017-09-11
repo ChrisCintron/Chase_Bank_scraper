@@ -21,7 +21,7 @@ import time
 url = "https://secure07a.chase.com/"
 #chase bank info
 username = ''#Username
-password = ''
+password = ''#password
 
 
 class Account(object):
